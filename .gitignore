@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Data files (too big for GitHub; scripts download them again)
+data/
+
+# Secrets: AWS keys and passwords. NEVER upload these.
+.env
+
+# Logs and Mac system files
+logs/
+*.log
+.DS_Store
