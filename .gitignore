@@ -3,10 +3,10 @@
 __pycache__/
 .pytest_cache/
 
-# Data files (too big for GitHub; scripts download them again)
+# Data files 
 data/
 
-# Secrets: AWS keys and passwords. NEVER upload these.
+# Secrets: AWS keys and passwords. 
 .env
 
 # Logs and Mac system files
